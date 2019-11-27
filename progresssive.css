@@ -1,0 +1,125 @@
+body {
+    background-image: url("https://media.istockphoto.com/photos/flock-of-birds-flying-isolated-on-white-background-picture-id931160708");
+    width: 90%;
+    background-color: #A5AAAE;
+    -moz-background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+
+
+}
+
+h1 {
+    font-family: Serif;
+    font-size: 40px;
+    color: rgba(53, 53, 53, 0.74);
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 220px;
+    background-color: rgba(243, 255, 18, 0.79);
+}
+p {
+    font-family: Serif;
+    font-size: 15px;
+    color: #1f1f1f;
+}
+blockquote {
+    font-size: 100%;
+    width: 45%;
+    background-color: rgba(93, 97, 101, 0.66);
+    border-left:solid 3px ;
+    margin: auto;
+    padding-left: 30px;
+
+}
+dt {
+    color: rgba(0, 0, 0, 0.41);
+    font-size: 13px;
+    letter-spacing: 1px;
+    word-spacing: 1.4px;
+    color: #000000;
+    font-weight: lighter;
+    float: initial;
+
+
+}
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    background-color: rgba(0, 0, 0, 0.26);
+    font-size: 20px;
+    text-align: center;
+    color: #fff0db;
+}
+h3 {
+    font-family: "Times New Roman", Times, serif;
+    font-size:29px;
+    background-color: rgba(243, 255, 18, 0.51);
+    color: #000000;
+    float: bottom;
+    text-align: center;
+    padding-left: 15px;
+
+
+}
+img {
+    width: 50%;
+    float: left;
+    margin-right: 15px;
+}
+table td {
+    border:5px solid rgba(55, 56, 52, 0.86);
+
+    width: 700px;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    color: rgba(0, 0, 0, 0.67);
+    padding-bottom: 10px;
+}
+h5 {
+    font-size: 10px;
+    font-weight: lighter;
+
+}
+strong {
+
+}
+
+header {
+
+}
+.good{
+    color: darkgreen;
+    text-transform: uppercase;
+}
+.bad {
+    color: #FF0000;
+    text-transform: uppercase;
+}
+tr:nth-child(even) {
+    background-color: rgba(112, 112, 112, 0.62);
+}
+#article {
+    border: 3px solid black;
+    text-align: center;
+    padding: 10px;
+}
+.conclusion {
+    font-size: 30px;
+    background-color: rgba(10, 91, 166, 0.35);
+
+
+
+}
+footer {
+    border: 2px solid black;
+    padding-bottom: 10px;
+    background-color: rgba(243, 255, 18, 0.51);
+}
+.neighbors {
+    color: darkgreen;
+}
+.chinese {
+    color: #FF0000;
+}
